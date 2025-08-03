@@ -35,4 +35,4 @@ This project developed a hybrid approach combining image processing and machine 
 **Deep Learning-Based CCTV System for Automatic Smoking Detection in Fire Exit Zones**  
 *Ongoing Research*  
 This ongoing work focuses on a deep learning-based system to detect smoking in fire exit zones using CCTV footage. Utilizing convolutional neural networks, the system enhances safety compliance in restricted areas.  
-[[Code](https://colab.research.google.com/drive/1Ctjm4OhLPzwEQM_Q-gb4W2WnJU7mnTaJ?usp=sharing)]
+[[Partial Code](https://colab.research.google.com/drive/1Ctjm4OhLPzwEQM_Q-gb4W2WnJU7mnTaJ?usp=sharing)]
