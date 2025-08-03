@@ -20,7 +20,7 @@ I am an Adjunct Lecturer in the Computer Science and Engineering Department at B
 - Image Processing
 - System Security
 
-[## Publications (/publications/)]
+## Publications
 **Enhanced CNN Approaches for Multi-Image Embedding in Image Steganography**  
 *ICICT 2024*  
 Md. Irtiza Hossain, Samiul Kadir, Farhan Ishraq Fagun, Ishtiaq Samiul, Rafi Zaman Saukhin  
