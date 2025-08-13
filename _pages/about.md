@@ -18,7 +18,7 @@ I am an Adjunct Lecturer in the Computer Science and Engineering Department at B
 - Machine Learning
 - Computer Vision
 - Image Processing
-- System Security
+- AI Security & Privacy
 
 ## Publications
 **Enhanced CNN Approaches for Multi-Image Embedding in Image Steganography**  
