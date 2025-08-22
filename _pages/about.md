@@ -26,13 +26,15 @@ I am an Adjunct Lecturer in the Computer Science and Engineering Department at B
 Md. Irtiza Hossain, Samiul Kadir, Farhan Ishraq Fagun, Ishtiaq Samiul, Rafi Zaman Saukhin  
 [[DOI](https://doi.org/10.1109/ICICT64387.2024.10839645)]
 
+**Deep Learning-Based CCTV System for Automatic Smoking Detection in Fire Exit Zones**
+*Preprint*
+Sami Sadat, Md. Irtiza Hossain, Junaid Ahmed Sifat, Suhail Haque Rafi, Md. Waseq Alauddin Alvi, Md. Khalilur Rhaman
+[[DOI](https://doi.org/10.48550/arXiv.2508.11696)]
+
 ## Other Research Works
 **Enhanced Hybrid Technique for Efficient Digitization of Handwritten Marksheets**  
 *Co-Supervised*  
 This project developed a hybrid approach combining image processing and machine learning to digitize handwritten marksheets efficiently. The method improves accuracy in extracting text and numerical data from scanned marksheets, addressing challenges like varied handwriting styles and noise.  
 [[PDF](https://drive.google.com/file/d/1sCsJQzjazVS8di7PaYUKv3fyF1CcbnfH/view)]  
 
-**Deep Learning-Based CCTV System for Automatic Smoking Detection in Fire Exit Zones**  
-*Ongoing Research*  
-This ongoing work focuses on a deep learning-based system to detect smoking in fire exit zones using CCTV footage. Utilizing convolutional neural networks, the system enhances safety compliance in restricted areas.  
-[[Partial Code](https://colab.research.google.com/drive/1Ctjm4OhLPzwEQM_Q-gb4W2WnJU7mnTaJ?usp=sharing)]
+
